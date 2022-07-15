@@ -1,0 +1,9 @@
+plugins/
+target/
+.mvn/
+.settings/
+.idea/
+.DS_Store
+.classpath
+.project
+*.iml
